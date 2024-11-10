@@ -1,4 +1,4 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Portfolio</a>
+  <a href="https://pranayvasoya.github.io/Portfolio-Website/" target="_blank">Portfolio</a>
 </h2>
